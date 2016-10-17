@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Asking Impromptu Questions with Flow">
+    <TocEntry
+      Title="Download and Hardware">
+      <TocEntry
+        Title="Hardware" />
+    </TocEntry>
+    <TocEntry
+      Title="Manage Participants">
+      <TocEntry
+        Title="Registering Participants Anonymously" />
+    </TocEntry>
+    <TocEntry
+      Title="Engage Question">
+      <TocEntry
+        Title="Asking Impromptu Questions" />
+    </TocEntry>
+    <TocEntry
+      Title="Session Results (Optional)">
+      <TocEntry
+        Title="Save Session" />
+      <TocEntry
+        Title="View Results" />
+    </TocEntry>
+  </TocEntry>
+</CatapultToc>

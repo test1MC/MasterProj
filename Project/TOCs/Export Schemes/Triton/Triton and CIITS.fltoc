@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Triton Data Collection System and CIITS">
+    <TocEntry
+      Title="Exporting Student IDs from CIITS" />
+    <TocEntry
+      Title="Entering the CIITS Information into the Participant Upload Template" />
+    <TocEntry
+      Title="Exporting Session Information" />
+    <TocEntry
+      Title="Uploading Session Information into CIITS" />
+  </TocEntry>
+</CatapultToc>

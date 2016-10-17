@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Welcome"
+    conditions="DocType.HTML" />
+  <TocEntry
+    Title="Title Page"
+    Link="/Content/Resources/GlobalTopics/TitlePage.htm"
+    conditions="DocType.UG"
+    BreakType="chapter"
+    AutoEndOnLeftPage="disabled"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/UGTitlePage.flpgl" />
+  <TocEntry
+    Title="Table of Contents"
+    Link="/Content/Resources/GlobalTopics/TOC.htm"
+    BreakType="pageLayout"
+    AutoEndOnLeftPage="disabled"
+    conditions="DocType.UG"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+  <TocEntry
+    Title="Copyright Statement"
+    Link="/Content/Resources/GlobalTopics/Copyright.htm"
+    conditions="DocType.UG"
+    BreakType="pageLayout"
+    AutoEndOnLeftPage="disabled"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+  <TocEntry
+    Title="Introduction" />
+  <TocEntry
+    Title="ExamView Import Format" />
+  <TocEntry
+    Title="Formatting Rules and Tips"
+    StartSection="false" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Resources/GlobalTopics/Copyright.htm"
+    conditions="DocType.HTML" />
+  <TocEntry
+    Title="Contact Us"
+    Link="/Content/Resources/GlobalTopics/ContactUs.htm" />
+</CatapultToc>

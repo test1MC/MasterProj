@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Asking Questions from the Flow Question Editor and PowerPoint®"
+    StartSection="false">
+    <TocEntry
+      Title="Download and Hardware">
+      <TocEntry
+        Title="Hardware"></TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Manage Participants">
+      <TocEntry
+        Title="Registering Participants Anonymously" />
+    </TocEntry>
+    <TocEntry
+      Title="Creating and Polling Questions from the Flow Question Editor">
+      <TocEntry
+        Title="Flow Question Editor" />
+      <TocEntry
+        Title="Asking Questions from the Flow Question Editor" />
+    </TocEntry>
+    <TocEntry
+      Title="Creating and Polling Questions from PowerPoint®">
+      <TocEntry
+        Title="PowerPoint (PC Only)"></TocEntry>
+      <TocEntry
+        Title="Asking Questions in a PowerPoint Presentation" />
+    </TocEntry>
+    <TocEntry
+      Title="Session Results (Optional)">
+      <TocEntry
+        Title="Save Session" />
+      <TocEntry
+        Title="View Results" />
+    </TocEntry>
+  </TocEntry>
+</CatapultToc>

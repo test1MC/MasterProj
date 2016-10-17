@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Welcome"
+    conditions="DocType.HTML" />
+  <TocEntry
+    Title="TitlePage"
+    Link="/Content/Resources/GlobalTopics/TitlePage.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/UGTitlePage.flpgl"
+    conditions="DocType.UG"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Resources/GlobalTopics/Copyright.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/UG.flpgl"
+    conditions="DocType.UG" />
+  <TocEntry
+    Title="Table of Contents"
+    Link="/Content/Resources/GlobalTopics/TOC.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/UG.flpgl"
+    conditions="DocType.UG"></TocEntry>
+  <TocEntry
+    Title="About ExamView® Test Generator">
+    <TocEntry
+      Title="Technical Requirements"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+    <TocEntry
+      Title="Getting Started"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl">
+      <TocEntry
+        Title="Installing the ExamView Assessment Suite Software" />
+      <TocEntry
+        Title="Downloading ExamView" />
+      <TocEntry
+        Title="Welcome Screen"
+        BreakType="pageLayout"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+      <TocEntry
+        Title="Switching Between the Test Builder and the Question Bank Editor" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="The Test Builder">
+    <TocEntry
+      Title="Question Types">
+      <TocEntry
+        Title="True/False" />
+      <TocEntry
+        Title="Modified True/False" />
+      <TocEntry
+        Title="Multiple Choice" />
+      <TocEntry
+        Title="Multiple Response" />
+      <TocEntry
+        Title="Bimodal" />
+      <TocEntry
+        Title="Yes/No" />
+      <TocEntry
+        Title="Numeric Response" />
+      <TocEntry
+        Title="Matching" />
+      <TocEntry
+        Title="Completion" />
+      <TocEntry
+        Title="Short Answer, Problem, Essay, Case and Other" />
+    </TocEntry>
+    <TocEntry
+      Title="Test Builder Basics"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl">
+      <TocEntry
+        Title="Test Builder Toolbar"
+        BreakType="pageLayout"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+      <TocEntry
+        Title="Creating a Test with the QuickTest Wizard" />
+      <TocEntry
+        Title="Creating a New Test and Selecting Questions" />
+      <TocEntry
+        Title="Opening a Test" />
+      <TocEntry
+        Title="Clearing Questions from a Test" />
+      <TocEntry
+        Title="Editing/Creating Questions on a Test" />
+      <TocEntry
+        Title="Using the Spell Checker" />
+      <TocEntry
+        Title="Mixing Question Types on a Test" />
+      <TocEntry
+        Title="Reordering Questions" />
+      <TocEntry
+        Title="Sorting Questions in a Test/Question Bank" />
+      <TocEntry
+        Title="Scrambling Questions on a Test (PC Only)" />
+      <TocEntry
+        Title="Two-column Formatting" />
+      <TocEntry
+        Title="Printing a Test" />
+      <TocEntry
+        Title="Printing a Bubble Form (PC Only)" />
+      <TocEntry
+        Title="Translating a Test" />
+      <TocEntry
+        Title="Saving a Test" />
+      <TocEntry
+        Title="Assigning a Password to a Test" />
+      <TocEntry
+        Title="Exporting a Test" />
+      <TocEntry
+        Title="Importing an XML Document into the ExamView Test Generator" />
+      <TocEntry
+        Title="Importing a CPS Lesson (PC Only)" />
+      <TocEntry
+        Title="Generating a Test Summary Report" />
+    </TocEntry>
+    <TocEntry
+      Title="Question Selection Methods">
+      <TocEntry
+        Title="Selecting Questions Randomly" />
+      <TocEntry
+        Title="Selecting Questions from a List" />
+      <TocEntry
+        Title="Selecting Questions While Viewing" />
+      <TocEntry
+        Title="Selecting Questions by Standard" />
+      <TocEntry
+        Title="Selecting Questions by Criteria" />
+      <TocEntry
+        Title="Selecting All Questions" />
+    </TocEntry>
+    <TocEntry
+      Title="Customizing the Appearance of a Test">
+      <TocEntry
+        Title="Changing the Layout and Style for a Test" />
+      <TocEntry
+        Title="Optimizing Tests for Two-Column Format" />
+      <TocEntry
+        Title="Changing Headers and Footers"
+        BreakType="pageLayout"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/UG.flpgl"
+        AutoEndOnLeftPage="disabled" />
+      <TocEntry
+        Title="Changing Question Type Instructions" />
+      <TocEntry
+        Title="Setting the Instruction Language" />
+      <TocEntry
+        Title="Formatting a Test with the Style Gallery (Window Only)" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Question Bank Editor">
+    <TocEntry
+      Title="Question Bank Editor Toolbar"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+    <TocEntry
+      Title="Creating a New Question Bank" />
+    <TocEntry
+      Title="Opening a Question Bank" />
+    <TocEntry
+      Title="Checking for Content Updates" />
+    <TocEntry
+      Title="Creating, Editing and Deleting Questions in a Question Bank" />
+    <TocEntry
+      Title="Customizing the Layout and Style of a Question Bank" />
+    <TocEntry
+      Title="Using the Spell Checker" />
+    <TocEntry
+      Title="Reordering Questions in a Question Bank Grouped by Question Type" />
+    <TocEntry
+      Title="Mixing Question Types in a Question Bank" />
+    <TocEntry
+      Title="Printing a Question Bank" />
+    <TocEntry
+      Title="Saving a Question Bank" />
+    <TocEntry
+      Title="Assigning a Password to a Question Bank" />
+    <TocEntry
+      Title="Copying an Entire Question Bank" />
+    <TocEntry
+      Title="Exporting Questions from ExamView" />
+    <TocEntry
+      Title="Importing Questions from ExamView XML" />
+    <TocEntry
+      Title="Importing a CPS Lesson (PC Only)" />
+    <TocEntry
+      Title="Importing Questions from Other Sources (PC Only)"
+      BreakType="pageLayout"
+      AutoEndOnLeftPage="disabled"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+  </TocEntry>
+  <TocEntry
+    Title="Publishing Tests">
+    <TocEntry
+      Title="ExamView Test Player on LAN or the Internet">
+      <TocEntry
+        Title="Publishing a LAN-Based (Online) Test Without a Roster" />
+      <TocEntry
+        Title="Publishing a LAN-Based (Online) Test with a Roster" />
+      <TocEntry
+        Title="Student Feedback/Multimedia"
+        BreakType="none"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+    </TocEntry>
+    <TocEntry
+      Title="Personal Websites"
+      BreakType="pageLayout"
+      AutoEndOnLeftPage="disabled"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl">
+      <TocEntry
+        Title="Saving an Internet Test to a Hard drive" />
+      <TocEntry
+        Title="Posting a Test to a Website" />
+      <TocEntry
+        Title="Taking a Test Using the Internet" />
+      <TocEntry
+        Title="Taking an Internet Study Guide" />
+    </TocEntry>
+    <TocEntry
+      Title="Publisher Websites">
+      <TocEntry
+        Title="Publishing a Test to a Publisher’s Website" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="The Word Processor">
+    <TocEntry
+      Title="The Word Processor Toolbar" />
+    <TocEntry
+      Title="Paragraph, Characters and Objects"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl">
+      <TocEntry
+        Title="Using the Word Processor Ruler" />
+      <TocEntry
+        Title="Formatting Paragraphs" />
+      <TocEntry
+        Title="Formatting Fonts" />
+      <TocEntry
+        Title="Showing or Hiding Codes, Variable Names and Question Tags" />
+      <TocEntry
+        Title="Using Undo, Cut, Copy and Paste" />
+      <TocEntry
+        Title="Using Find and Replace" />
+      <TocEntry
+        Title="Inserting a Symbol or Foreign Character" />
+      <TocEntry
+        Title="Inserting/Editing an Equation" />
+      <TocEntry
+        Title="Inserting/Editing a Hyperlink" />
+      <TocEntry
+        Title="Inserting/Editing a Graph" />
+      <TocEntry
+        Title="Inserting a Variable" />
+      <TocEntry
+        Title="Working with Tabs" />
+      <TocEntry
+        Title="Formatting Borders and Shading" />
+      <TocEntry
+        Title="Copying/Applying Ruler Settings" />
+      <TocEntry
+        Title="Copying/Applying Style Settings" />
+    </TocEntry>
+    <TocEntry
+      Title="Pictures">
+      <TocEntry
+        Title="Inserting a Picture" />
+      <TocEntry
+        Title="Formatting Pictures" />
+    </TocEntry>
+    <TocEntry
+      Title="Tables"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl">
+      <TocEntry
+        Title="Inserting a Table" />
+      <TocEntry
+        Title="Inserting/Editing Rows and Columns" />
+      <TocEntry
+        Title="Formatting Existing Tables" />
+      <TocEntry
+        Title="Merging Cells" />
+      <TocEntry
+        Title="Splitting Cells" />
+      <TocEntry
+        Title="Converting a Table to Text" />
+      <TocEntry
+        Title="Converting Tabular Text Into a Table" />
+      <TocEntry
+        Title="Splitting a Table Into Two Separate Tables" />
+      <TocEntry
+        Title="Adjusting Table Cell Height and Width" />
+      <TocEntry
+        Title="Aligning Columns" />
+      <TocEntry
+        Title="Applying Borders and Shading to Tables" />
+      <TocEntry
+        Title="Setting Table Properties" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="The Equation Editor">
+    <TocEntry
+      Title="The Equation Editor Menu Bar" />
+    <TocEntry
+      Title="Creating an Equation" />
+    <TocEntry
+      Title="Equation Editor Keyboard Shortcuts"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+    <TocEntry
+      Title="Changing the Equation Editor Preferences" />
+    <TocEntry
+      Title="Inserting Symbols Into an Equation" />
+    <TocEntry
+      Title="Inserting Templates Into an Equation" />
+  </TocEntry>
+  <TocEntry
+    Title="Dynamic Content (Algorithms)">
+    <TocEntry
+      Title="Creating a New Algorithm" />
+    <TocEntry
+      Title="Algorithmic Syntax" />
+    <TocEntry
+      Title="Algorithm Definitions"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl">
+      <TocEntry
+        Title="Constants" />
+      <TocEntry
+        Title="Math Functions" />
+      <TocEntry
+        Title="Exponential and Logarithmic Functions" />
+      <TocEntry
+        Title="Trigonometric Functions" />
+      <TocEntry
+        Title="String Functions" />
+      <TocEntry
+        Title="Statistical Functions"
+        BreakType="pageLayout"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+      <TocEntry
+        Title="Logical Operators"
+        BreakType="pageLayout"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+      <TocEntry
+        Title="Fraction Functions"
+        BreakType="pageLayout"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+      <TocEntry
+        Title="Special Functions" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Keywords"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/UGLandscape.flpgl" />
+  <TocEntry
+    Title="The Graph Tool"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/UG.flpgl">
+    <TocEntry
+      Title="Cartesian Graphs">
+      <TocEntry
+        Title="Inserting a Cartesian Graph" />
+      <TocEntry
+        Title="f(x) or f(y)" />
+      <TocEntry
+        Title="Parabola" />
+      <TocEntry
+        Title="Circle" />
+      <TocEntry
+        Title="Ellipse" />
+      <TocEntry
+        Title="Hyperbola" />
+      <TocEntry
+        Title="Point (x, y)" />
+      <TocEntry
+        Title="Segment" />
+      <TocEntry
+        Title="Polynomial" />
+      <TocEntry
+        Title="Parametric Function" />
+      <TocEntry
+        Title="Normal Curve" />
+      <TocEntry
+        Title="Picture" />
+      <TocEntry
+        Title="Shapes" />
+      <TocEntry
+        Title="Pie Chart" />
+      <TocEntry
+        Title="Text Box" />
+      <TocEntry
+        Title="Compound" />
+    </TocEntry>
+    <TocEntry
+      Title="Polar Graphs"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl">
+      <TocEntry
+        Title="Inserting a Polar Graph" />
+      <TocEntry
+        Title="f(theta)" />
+      <TocEntry
+        Title="Point (r, theta)" />
+    </TocEntry>
+    <TocEntry
+      Title="Number Lines"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl">
+      <TocEntry
+        Title="Inserting a Number Line" />
+      <TocEntry
+        Title="Point" />
+      <TocEntry
+        Title="Segment" />
+      <TocEntry
+        Title="Ray" />
+      <TocEntry
+        Title="Line" />
+      <TocEntry
+        Title="Box and Whisker Plot" />
+      <TocEntry
+        Title="Vectors" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Preferences">
+    <TocEntry
+      Title="Changing the Preferences" />
+    <TocEntry
+      Title="General" />
+    <TocEntry
+      Title="Files" />
+    <TocEntry
+      Title="Editing" />
+    <TocEntry
+      Title="Layout" />
+    <TocEntry
+      Title="Style" />
+    <TocEntry
+      Title="Points" />
+  </TocEntry>
+  <TocEntry
+    Title="Learning Management Systems">
+    <TocEntry
+      Title="ANGEL">
+      <TocEntry
+        Title="ANGEL Question Support"
+        BreakType="pageLayout"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+      <TocEntry
+        Title="ANGEL Publish Location" />
+      <TocEntry
+        Title="Publishing a Test/Question Bank to ANGEL" />
+      <TocEntry
+        Title="Setting Up and Managing ANGEL Server Profiles" />
+      <TocEntry
+        Title="Exporting a Test/Question Bank for ANGEL" />
+      <TocEntry
+        Title="Converting Quizzes to Assessments, Surveys to Enhanced Surveys" />
+      <TocEntry
+        Title="Uploading an Unzipping Files to ANGEL" />
+      <TocEntry
+        Title="ANGEL 7.3 (and higher) Advanced Publish Settings"
+        BreakType="pageLayout"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/UG.flpgl"></TocEntry>
+      <TocEntry
+        Title="ANGEL 7.0 - 7.2 Advanced Publish Settings"
+        BreakType="none"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/UG.flpgl"></TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Blackboard"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl">
+      <TocEntry
+        Title="Blackboard Question Support" />
+      <TocEntry
+        Title="Exporting a Test/Question Bank for Blackboard" />
+      <TocEntry
+        Title="Uploading Questions into Blackboard" />
+      <TocEntry
+        Title="Creating a Quiz in Blackboard" />
+      <TocEntry
+        Title="Blackboard Troubleshooting">
+        <TocEntry
+          Title="Specific to the Blackboard 6.0 - 7.0 format only:" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Desire2Learn"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl">
+      <TocEntry
+        Title="D2L Question Support">
+        <TocEntry
+          Title="Known Issues" />
+      </TocEntry>
+      <TocEntry
+        Title="Importing Question Content Into Desire2Learn" />
+    </TocEntry>
+    <TocEntry
+      Title="Moodle"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl">
+      <TocEntry
+        Title="Moodle Question Support">
+        <TocEntry
+          Title="Known Issues" />
+      </TocEntry>
+      <TocEntry
+        Title="Importing Question Content Into Moodle" />
+    </TocEntry>
+    <TocEntry
+      Title="WebCT"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl">
+      <TocEntry
+        Title="WebCT Question Support">
+        <TocEntry
+          Title="Known Issues" />
+      </TocEntry>
+      <TocEntry
+        Title="Publishing a Test/Bank to WebCT" />
+      <TocEntry
+        Title="Setting Up and Managing WebCT Server Profiles" />
+      <TocEntry
+        Title="Exporting a Test/Question Bank for WebCT" />
+      <TocEntry
+        Title="Uploading and Unzipping Files Into WebCT CE 6/Vista 4" />
+      <TocEntry
+        Title="WebCT Advanced Publish Settings"></TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Navigating the Software">
+    <TocEntry
+      Title="Editing Commands and Keyboard Shortcuts" />
+    <TocEntry
+      Title="Navigate Within a Question, Answer, or Narrative" />
+    <TocEntry
+      Title="Select Text and Pictures" />
+    <TocEntry
+      Title="Selecting Items in a Table" />
+    <TocEntry
+      Title="Navigate Within a Test or Question Bank" />
+  </TocEntry>
+  <TocEntry
+    Title="Troubleshooting Tips"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Resources/GlobalTopics/Copyright.htm"
+    conditions="DocType.HTML" />
+  <TocEntry
+    Title="Contact Us"
+    Link="/Content/Resources/GlobalTopics/ContactUs.htm" />
+</CatapultToc>

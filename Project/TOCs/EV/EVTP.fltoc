@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Welcome"
+    conditions="DocType.HTML" />
+  <TocEntry
+    Title="TitlePage"
+    Link="/Content/Resources/GlobalTopics/TitlePage.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/UGTitlePage.flpgl"
+    conditions="DocType.UG"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Resources/GlobalTopics/Copyright.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/UG.flpgl"
+    conditions="DocType.UG" />
+  <TocEntry
+    Title="Table of Contents"
+    Link="/Content/Resources/GlobalTopics/TOC.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/UG.flpgl"
+    conditions="DocType.UG" />
+  <TocEntry
+    Title="Using ExamView Test Player">
+    <TocEntry
+      Title="Getting Started with the ExamView Test Player" />
+    <TocEntry
+      Title="Taking a Test with the Test Player" />
+    <TocEntry
+      Title="Navigating the Test" />
+    <TocEntry
+      Title="Test Player Button Controls"
+      BreakType="none"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+    <TocEntry
+      Title="Going to a Specific Question/Checking for Unanswered Questions" />
+    <TocEntry
+      Title="Checking a Response" />
+    <TocEntry
+      Title="Playing a Multimedia Link"
+      BreakType="none"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+    <TocEntry
+      Title="Answering Multiple Choice, True/False, Yes/No or Matching Questions" />
+    <TocEntry
+      Title="Answering Modified True/False Questions" />
+    <TocEntry
+      Title="Answering Multiple Response Questions" />
+    <TocEntry
+      Title="Answering Numeric Response Questions"
+      BreakType="none"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+    <TocEntry
+      Title="Answering Completion Questions" />
+    <TocEntry
+      Title="Answering Short Answer, Problem, Essay, Case or Other Questions" />
+    <TocEntry
+      Title="Closing the Program" />
+  </TocEntry>
+  <TocEntry
+    Title="Keyboard Shortcuts">
+    <TocEntry
+      Title="French"></TocEntry>
+    <TocEntry
+      Title="German" />
+    <TocEntry
+      Title="Haitian-Creole"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+    <TocEntry
+      Title="Spanish" />
+  </TocEntry>
+  <TocEntry
+    Title="Troubleshooting Tips"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Resources/GlobalTopics/Copyright.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/UG.flpgl"
+    conditions="DocType.HTML" />
+  <TocEntry
+    Title="Contact Us"
+    Link="/Content/Resources/GlobalTopics/ContactUs.htm" />
+</CatapultToc>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Using the Lesson Builder and Homework Mode in Flow">
+    <TocEntry
+      Title="Adding a Question" />
+    <TocEntry
+      Title="Homework">
+      <TocEntry
+        Title="Publishing Homework via Lesson Builder" />
+      <TocEntry
+        Title="Assigning Homework" />
+      <TocEntry
+        Title="Downloading and Viewing Completed Homework" />
+    </TocEntry>
+  </TocEntry>
+</CatapultToc>

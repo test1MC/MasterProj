@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Welcome"
+    conditions="DocType.HTML" />
+  <TocEntry
+    Title="TitlePage"
+    Link="/Content/Resources/GlobalTopics/TitlePage.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/UGTitlePage.flpgl"
+    conditions="DocType.UG"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Resources/GlobalTopics/Copyright.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/UG.flpgl"
+    conditions="DocType.UG" />
+  <TocEntry
+    Title="Table of Contents"
+    Link="/Content/Resources/GlobalTopics/TOC.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/UG.flpgl"
+    conditions="DocType.UG" />
+  <TocEntry
+    Title="About ExamView Test Manager">
+    <TocEntry
+      Title="Getting Started" />
+    <TocEntry
+      Title="Navigating the Software"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+    <TocEntry
+      Title="The Test Manager Toolbar"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+  </TocEntry>
+  <TocEntry
+    Title="Classes">
+    <TocEntry
+      Title="Creating a New Class"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+    <TocEntry
+      Title="Opening an Existing Class" />
+    <TocEntry
+      Title="Importing a Class Roster from Text (Mac)" />
+    <TocEntry
+      Title="Importing a Class Roster from Text (PC)" />
+    <TocEntry
+      Title="Importing a Class Roster Through the Wizard"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+    <TocEntry
+      Title="Performing Advanced Import Mapping (PC Only)" />
+    <TocEntry
+      Title="Importing a Class Roster from CPS" />
+    <TocEntry
+      Title="Exporting a Class Roster as a Text File" />
+    <TocEntry
+      Title="Exporting a Class Roster as a CPS Database" />
+    <TocEntry
+      Title="Adding a New Student" />
+    <TocEntry
+      Title="Deleting a Student" />
+    <TocEntry
+      Title="Editing Class Information" />
+    <TocEntry
+      Title="Editing Student Information" />
+    <TocEntry
+      Title="Finding a Student" />
+    <TocEntry
+      Title="Saving a Class" />
+  </TocEntry>
+  <TocEntry
+    Title="Assignments">
+    <TocEntry
+      Title="Creating a New Assignment (Paper Test)"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+    <TocEntry
+      Title="Creating a New Assignment (LAN Test)"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+    <TocEntry
+      Title="Importing Assignments from a CPS Database" />
+    <TocEntry
+      Title="Copying an Assignment from One Class to Another"
+      BreakType="none"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+    <TocEntry
+      Title="Copying All Class Records to a Spreadsheet" />
+    <TocEntry
+      Title="Editing Assignment Information" />
+    <TocEntry
+      Title="Viewing a Question" />
+    <TocEntry
+      Title="Updating Online Tests" />
+    <TocEntry
+      Title="Results from Scanners"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl">
+      <TocEntry
+        Title="Getting Results from a Scanner"
+        BreakType="none"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+      <TocEntry
+        Title="Getting Results from a Dedicated OMR Scanner" />
+      <TocEntry
+        Title="Getting Results from a Plain-Paper Scanner (Windows Only)" />
+      <TocEntry
+        Title="Printing a Bubble Form (Windows Only)"
+        BreakType="none"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+    </TocEntry>
+    <TocEntry
+      Title="Results from CPS Response Clickers"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl"
+      conditions="Versions.8">
+      <TocEntry
+        Title="Getting Results from CPS Response Clickers"
+        BreakType="pageLayout"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+      <TocEntry
+        Title="Assigning Response Clicker IDs"
+        BreakType="none"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+      <TocEntry
+        Title="Student-Managed Session with IR Pads"
+        BreakType="pageLayout"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+      <TocEntry
+        Title="Student-Managed Session with Gen2 RF Pads"
+        BreakType="pageLayout"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+      <TocEntry
+        Title="Teacher-Led Student-Managed Session"
+        BreakType="pageLayout"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+    </TocEntry>
+    <TocEntry
+      Title="Results from LAN Test"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl">
+      <TocEntry
+        Title="Getting Results from LAN Test" />
+      <TocEntry
+        Title="Canceling/Resuming LAN Test" />
+      <TocEntry
+        Title="Troubleshooting" />
+      <TocEntry
+        Title="Entering/Editing Scores" />
+      <TocEntry
+        Title="Clearing Student Results" />
+      <TocEntry
+        Title="Deleting an Assignment" />
+    </TocEntry>
+    <TocEntry
+      Title="Exporting Assignment Results as a Text File" />
+    <TocEntry
+      Title="Exporting Assignment Results as an XML File"
+      BreakType="none"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+    <TocEntry
+      Title="Exporting Detailed Results" />
+  </TocEntry>
+  <TocEntry
+    Title="Reports">
+    <TocEntry
+      Title="Creating/Managing Custom Filters"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+    <TocEntry
+      Title="Class Reports"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl">
+      <TocEntry
+        Title="Assignment Results by Class" />
+      <TocEntry
+        Title="Class Assignment Summary" />
+      <TocEntry
+        Title="Open-Ended Responses Worksheet" />
+      <TocEntry
+        Title="Item Analysis Summary" />
+      <TocEntry
+        Title="Item Remediation Summary" />
+      <TocEntry
+        Title="Learning Focus by Class" />
+      <TocEntry
+        Title="Performance Summary by Class" />
+      <TocEntry
+        Title="Class Performance Progress Chart" />
+      <TocEntry
+        Title="Class Roster" />
+    </TocEntry>
+    <TocEntry
+      Title="Student Reports"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/UG.flpgl">
+      <TocEntry
+        Title="Assignment Results by Student" />
+      <TocEntry
+        Title="Assignment Review" />
+      <TocEntry
+        Title="Student Progress Report" />
+      <TocEntry
+        Title="Learning Focus by Student" />
+      <TocEntry
+        Title="Performance Summary by Student" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Preferences">
+    <TocEntry
+      Title="Changing the Preferences" />
+    <TocEntry
+      Title="General" />
+    <TocEntry
+      Title="Assignments" />
+    <TocEntry
+      Title="Students" />
+    <TocEntry
+      Title="Reports" />
+  </TocEntry>
+  <TocEntry
+    Title="Troubleshooting"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Resources/GlobalTopics/Copyright.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/UG.flpgl"
+    conditions="DocType.HTML" />
+  <TocEntry
+    Title="Contact Us"
+    Link="/Content/Resources/GlobalTopics/ContactUs.htm" />
+</CatapultToc>

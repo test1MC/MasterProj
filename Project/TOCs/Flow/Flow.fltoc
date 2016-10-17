@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc>
+  <TocEntry
+    Title="TitlePage"
+    Link="/Content/Resources/GlobalTopics/TitlePage.htm"
+    BreakType="pageLayout"
+    StartSection="false" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Resources/GlobalTopics/Copyright.htm"
+    BreakType="pageLayout"
+    StartSection="false" />
+  <TocEntry
+    Title="Table of Contents"
+    Link="/Content/Resources/GlobalTopics/TOC.htm" />
+  <TocEntry
+    Title="About Flow®">
+    <TocEntry
+      Title="Technical Requirements">
+      <TocEntry
+        Title="Compatible Devices"
+        BreakType="pageLayout"
+        StartSection="false" />
+    </TocEntry>
+    <TocEntry
+      Title="Getting Started">
+      <TocEntry
+        Title="Downloading Flow" />
+      <TocEntry
+        Title="Installing Flow for PC" />
+      <TocEntry
+        Title="Installing Flow for Mac" />
+      <TocEntry
+        Title="Installing Flow for Linux" />
+    </TocEntry>
+    <TocEntry
+      Title="Hardware">
+      <TocEntry
+        Title="Changing the Receiver Channel" />
+      <TocEntry
+        Title="Using CPS IR, Spark RF and ResponseCard RF/RF LCD Clickers"
+        BreakType="none"
+        StartSection="false" />
+      <TocEntry
+        Title="Using Pulse RF and ResponseCard NXT Clickers" />
+    </TocEntry>
+    <TocEntry
+      Title="vPad" />
+  </TocEntry>
+  <TocEntry
+    Title="Navigating Flow">
+    <TocEntry
+      Title="The Main Window"></TocEntry>
+    <TocEntry
+      Title="Flow Menu" />
+  </TocEntry>
+  <TocEntry
+    Title="Participants">
+    <TocEntry
+      Title="Registering Participants Anonymously" />
+    <TocEntry
+      Title="Adding Participants to a Participant List" />
+    <TocEntry
+      Title="Registration Chart"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="Importing a Participant List from a CSV or XLSX File"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="Registration Chart"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="Importing a Participant List from a Learning Management System (LMS)"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="Using Assisted Registry" />
+  </TocEntry>
+  <TocEntry
+    Title="Lesson Builder">
+    <TocEntry
+      Title="Adding a Question in the Lesson Builder" />
+    <TocEntry
+      Title="Printing a Lesson" />
+  </TocEntry>
+  <TocEntry
+    Title="Content">
+    <TocEntry
+      Title="Impromptu">
+      <TocEntry
+        Title="True/False" />
+      <TocEntry
+        Title="Multiple Choice" />
+      <TocEntry
+        Title="Multiple Answer" />
+      <TocEntry
+        Title="Short Text" />
+      <TocEntry
+        Title="Numeric" />
+      <TocEntry
+        Title="Constructed Response" />
+    </TocEntry>
+    <TocEntry
+      Title="Flow Question Editor">
+      <TocEntry
+        Title="Using the Flow Question Editor" />
+    </TocEntry>
+    <TocEntry
+      Title="PowerPoint (PC Only)">
+      <TocEntry
+        Title="Creating a Flow Question in PowerPoint" />
+    </TocEntry>
+    <TocEntry
+      Title="Flow Lesson">
+      <TocEntry
+        Title="Asking Questions from a Flow Lesson" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Homework">
+    <TocEntry
+      Title="Publishing Homework via the Lesson Builder" />
+    <TocEntry
+      Title="Assigning and Completing Homework" />
+    <TocEntry
+      Title="Downloading and Viewing Completed Homework" />
+  </TocEntry>
+  <TocEntry
+    Title="Polling">
+    <TocEntry
+      Title="Polling Impromptu Questions" />
+    <TocEntry
+      Title="Polling Questions from the Flow Question Editor in an External Application" />
+    <TocEntry
+      Title="Polling Questions in a PowerPoint Presentation" />
+    <TocEntry
+      Title="Manually Adding Time to a Question" />
+    <TocEntry
+      Title="Viewing the Response Grid" />
+    <TocEntry
+      Title="Viewing Results in Real Time" />
+  </TocEntry>
+  <TocEntry
+    Title="Results">
+    <TocEntry
+      Title="View Results">
+      <TocEntry
+        Title="Viewing Results by Session" />
+      <TocEntry
+        Title="Viewing Results by Question" />
+      <TocEntry
+        Title="Viewing Results by Participant" />
+    </TocEntry>
+    <TocEntry
+      Title="Chart Options" />
+    <TocEntry
+      Title="Edit Questions" />
+    <TocEntry
+      Title="Saving Session Results" />
+    <TocEntry
+      Title="Exporting Session Results" />
+  </TocEntry>
+  <TocEntry
+    Title="Contact Us"
+    Link="/Content/Resources/GlobalTopics/ContactUs.htm"></TocEntry>
+  <TocEntry
+    Title="vPad"
+    BreakType="chapter"
+    PageNumberReset="reset"
+    StartSection="true"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue">
+    <TocEntry
+      Title="Technical Requirements" />
+    <TocEntry
+      Title="Installation">
+      <TocEntry
+        Title="Installing vPad on the Computer" />
+      <TocEntry
+        Title="Connecting vPad Web" />
+    </TocEntry>
+    <TocEntry
+      Title="Polling">
+      <TocEntry
+        Title="Logging into a vPad Session" />
+      <TocEntry
+        Title="Responding to a True/False or Multiple Choice Question" />
+      <TocEntry
+        Title="Responding to a Multiple Answer Question" />
+      <TocEntry
+        Title="Responding to a Short Text or Numeric Question" />
+      <TocEntry
+        Title="Responding to a Constructed Response Question" />
+    </TocEntry>
+    <TocEntry
+      Title="Homework Mode">
+      <TocEntry
+        Title="Saving Homework Locally" />
+    </TocEntry>
+  </TocEntry>
+</CatapultToc>

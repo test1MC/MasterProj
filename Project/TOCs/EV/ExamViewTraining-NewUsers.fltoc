@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="ExamView - New Users">
+    <TocEntry
+      Title="Creating a Test with the QuickTest Wizard" />
+    <TocEntry
+      Title="Creating a New Question Bank" />
+    <TocEntry
+      Title="Editing/Creating Questions on a Test" />
+    <TocEntry
+      Title="Toggle Bimodal" />
+    <TocEntry
+      Title="Saving a Test" />
+    <TocEntry
+      Title="Saving a Question Bank" />
+    <TocEntry
+      Title="Printing a Test" />
+  </TocEntry>
+</CatapultToc>

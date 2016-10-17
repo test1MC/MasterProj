@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="TitlePage"
+    Link="/Content/Resources/GlobalTopics/TitlePage.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/UGTitlePage.flpgl"
+    PageNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Resources/GlobalTopics/Copyright.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/UG.flpgl" />
+  <TocEntry
+    Title="Table of Contents"
+    Link="/Content/Resources/GlobalTopics/OLDTOC.htm" />
+  <TocEntry
+    Title="Introduction" />
+  <TocEntry
+    Title="Getting Started with ExamView® Assessment Suite" />
+  <TocEntry
+    Title="Computerized Testing Basics" />
+  <TocEntry
+    Title="Preparing Questions in Word">
+    <TocEntry
+      Title="Multiple Choice"
+      conditions="Versions.EV"
+      StartSection="false" />
+    <TocEntry
+      Title="Bimodal"
+      conditions="Versions.EV" />
+    <TocEntry
+      Title="Multiple Response"
+      conditions="Versions.EV" />
+    <TocEntry
+      Title="Completion"
+      conditions="Versions.EV" />
+    <TocEntry
+      Title="Modified True/False"
+      conditions="Versions.EV" />
+    <TocEntry
+      Title="Matching"
+      conditions="Versions.EV" />
+    <TocEntry
+      Title="Numeric Response"
+      conditions="Versions.EV" />
+    <TocEntry
+      Title="Short Answer, Problem, Essay, Case and Other"
+      conditions="Versions.EV" />
+    <TocEntry
+      Title="To Create and Use Narratives" />
+  </TocEntry>
+  <TocEntry
+    Title="Using Artwork on Tests" />
+  <TocEntry
+    Title="Hands-onTutorial" />
+  <TocEntry
+    Title="Sample Question Bank" />
+  <TocEntry
+    Title="Contact Us"
+    Link="/Content/Resources/GlobalTopics/OLDContactUs.htm" />
+</CatapultToc>
